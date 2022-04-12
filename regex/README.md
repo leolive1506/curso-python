@@ -48,17 +48,17 @@ variavel = re.funcao(expressa_regular,  texto_onde_procurar, flags)
 ```
 
 ## Funções
-<img src="imgs/re_funcoes.png" />
-<img src="imgs/funcoes2.png" />
+<img src="../imgs/re_funcoes.png" />
+<img src="../imgs/funcoes2.png" />
 
 ## Flags
-<img src="imgs/flags.png" />
+<img src="../imgs/flags.png" />
 
 ## Exemplos
-<img src="imgs/somente_num.png" />
-<img src="imgs/ex_dias_semana.png" />
-<img src="imgs/ignore_case.png" />
-<img src="imgs/usando_ponto.png" />
+<img src="../imgs/somente_num.png" />
+<img src="../imgs/ex_dias_semana.png" />
+<img src="../imgs/ignore_case.png" />
+<img src="../imgs/usando_ponto.png" />
 
 ## Usar expressões
 - "."
@@ -89,7 +89,7 @@ variavel = re.funcao(expressa_regular,  texto_onde_procurar, flags)
     - Zero ou uma ocorrências da expressão anterior
 
 - Principais caracteres especiais (meta-caracteres)
-    <img src="imgs/caracteres-especiais.png" />
+    <img src="../imgs/caracteres-especiais.png" />
 - Expressões regulares usam "\" p indicar formas especias ou para permitir a utilização de caracteres especiais como se fosse caracteres comuns
     - Esse comportamento conflita com o uso da ("\") no python
     - Que utiliza esse caractere para o mesmo propósito em strings literais
